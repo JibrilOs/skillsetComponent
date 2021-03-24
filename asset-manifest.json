@@ -1,23 +1,22 @@
 {
   "files": {
-    "main.css": "/skillsetComponent/static/css/main.62fc1d19.chunk.css",
-    "main.js": "/skillsetComponent/static/js/main.3307a531.chunk.js",
-    "main.js.map": "/skillsetComponent/static/js/main.3307a531.chunk.js.map",
-    "runtime-main.js": "/skillsetComponent/static/js/runtime-main.28b2cd38.js",
-    "runtime-main.js.map": "/skillsetComponent/static/js/runtime-main.28b2cd38.js.map",
-    "static/js/2.441c55f1.chunk.js": "/skillsetComponent/static/js/2.441c55f1.chunk.js",
-    "static/js/2.441c55f1.chunk.js.map": "/skillsetComponent/static/js/2.441c55f1.chunk.js.map",
-    "static/js/3.ef96a412.chunk.js": "/skillsetComponent/static/js/3.ef96a412.chunk.js",
-    "static/js/3.ef96a412.chunk.js.map": "/skillsetComponent/static/js/3.ef96a412.chunk.js.map",
+    "main.css": "/skillsetComponent/static/css/main.c23eaa4a.chunk.css",
+    "main.js": "/skillsetComponent/static/js/main.c173b266.chunk.js",
+    "main.js.map": "/skillsetComponent/static/js/main.c173b266.chunk.js.map",
+    "runtime-main.js": "/skillsetComponent/static/js/runtime-main.53413f30.js",
+    "runtime-main.js.map": "/skillsetComponent/static/js/runtime-main.53413f30.js.map",
+    "static/js/2.f31a2149.chunk.js": "/skillsetComponent/static/js/2.f31a2149.chunk.js",
+    "static/js/2.f31a2149.chunk.js.map": "/skillsetComponent/static/js/2.f31a2149.chunk.js.map",
+    "static/js/3.f5ca6a28.chunk.js": "/skillsetComponent/static/js/3.f5ca6a28.chunk.js",
+    "static/js/3.f5ca6a28.chunk.js.map": "/skillsetComponent/static/js/3.f5ca6a28.chunk.js.map",
     "index.html": "/skillsetComponent/index.html",
-    "static/css/main.62fc1d19.chunk.css.map": "/skillsetComponent/static/css/main.62fc1d19.chunk.css.map",
-    "static/js/2.441c55f1.chunk.js.LICENSE.txt": "/skillsetComponent/static/js/2.441c55f1.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/skillsetComponent/static/media/logo.6ce24c58.svg"
+    "static/css/main.c23eaa4a.chunk.css.map": "/skillsetComponent/static/css/main.c23eaa4a.chunk.css.map",
+    "static/js/2.f31a2149.chunk.js.LICENSE.txt": "/skillsetComponent/static/js/2.f31a2149.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.28b2cd38.js",
-    "static/js/2.441c55f1.chunk.js",
-    "static/css/main.62fc1d19.chunk.css",
-    "static/js/main.3307a531.chunk.js"
+    "static/js/runtime-main.53413f30.js",
+    "static/js/2.f31a2149.chunk.js",
+    "static/css/main.c23eaa4a.chunk.css",
+    "static/js/main.c173b266.chunk.js"
   ]
 }
