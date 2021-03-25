@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/skillsetComponent/static/css/main.ba920cf8.chunk.css",
-    "main.js": "/skillsetComponent/static/js/main.ae4c86ba.chunk.js",
-    "main.js.map": "/skillsetComponent/static/js/main.ae4c86ba.chunk.js.map",
+    "main.css": "/skillsetComponent/static/css/main.ab2e3c9e.chunk.css",
+    "main.js": "/skillsetComponent/static/js/main.f57833ca.chunk.js",
+    "main.js.map": "/skillsetComponent/static/js/main.f57833ca.chunk.js.map",
     "runtime-main.js": "/skillsetComponent/static/js/runtime-main.e9bfa49a.js",
     "runtime-main.js.map": "/skillsetComponent/static/js/runtime-main.e9bfa49a.js.map",
     "static/js/2.9d716194.chunk.js": "/skillsetComponent/static/js/2.9d716194.chunk.js",
@@ -10,13 +10,13 @@
     "static/js/3.e01a2c24.chunk.js": "/skillsetComponent/static/js/3.e01a2c24.chunk.js",
     "static/js/3.e01a2c24.chunk.js.map": "/skillsetComponent/static/js/3.e01a2c24.chunk.js.map",
     "index.html": "/skillsetComponent/index.html",
-    "static/css/main.ba920cf8.chunk.css.map": "/skillsetComponent/static/css/main.ba920cf8.chunk.css.map",
+    "static/css/main.ab2e3c9e.chunk.css.map": "/skillsetComponent/static/css/main.ab2e3c9e.chunk.css.map",
     "static/js/2.9d716194.chunk.js.LICENSE.txt": "/skillsetComponent/static/js/2.9d716194.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e9bfa49a.js",
     "static/js/2.9d716194.chunk.js",
-    "static/css/main.ba920cf8.chunk.css",
-    "static/js/main.ae4c86ba.chunk.js"
+    "static/css/main.ab2e3c9e.chunk.css",
+    "static/js/main.f57833ca.chunk.js"
   ]
 }
