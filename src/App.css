@@ -1,6 +1,9 @@
 *{margin: 0;
 padding: 0;
-box-sizing: border-box;}
+box-sizing: border-box;
+
+ 
+}
 
 
 
@@ -30,21 +33,21 @@ box-sizing: border-box;}
 
  
 }
-.flex{
+ .flex{
   display: flex;
 
   flex-wrap: wrap;
   justify-content: center;
 
  
-}
-svg{
+} 
+.circle svg{
 margin: 13px auto;
     overflow: hidden;
     vertical-align: middle;
 
 
-}
+} 
 .circle{
 margin: 10px 10px;
 background-color:#1C2C35;
